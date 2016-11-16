@@ -1,0 +1,10 @@
+INFO:root:__Task start__
+INFO:root:__Status query__
+INFO:root:__Task stop__
+INFO:root:__Task start__
+INFO:root:Task started.
+INFO:root:Current Task updated.
+INFO:root:__Status query__
+INFO:root:Status returned.
+INFO:root:__Task stop__
+INFO:root:Task ended.
