@@ -1,6 +1,8 @@
 import sys
 from dbaccess import *
 
+initialize()
+
 if (sys.argv[1] == 'start'):
 	starttask(sys.argv[2])
 	
